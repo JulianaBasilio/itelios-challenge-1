@@ -1,10 +1,12 @@
 # itelios-challenge-1
 A JavaScript challenge for selective process of the Itelios
 
-Para esse script ser executado corretamente, tenha a versão a 10.15.1 ou superior do Node.
+### Runnning the code:
 
-Como usar:
+To execute this script correctly, you must have installed the Node.js version 10.15.1 or latest.
 
-No terminal, acesse o diretório do projeto e digite o comando abaixo:
+### How to use:
 
-npm start
+In the terminal, you have to access the project directory and type the command below:
+
+```npm start```
